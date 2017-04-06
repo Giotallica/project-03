@@ -1,0 +1,51 @@
+body{background-color:orange;}
+h1{color:Red;
+font-size: 60px;
+font-family: Garamond, Times, serif;
+
+}
+h2{color:Black;
+font-size:20px;
+font-family:Ruda;
+background-color:Red;
+border-style: solid;
+border-width: 3px 3px 3px 3px;
+
+	
+}
+
+h4{font-size: 30px;background-color:Yellow;
+border-style: solid;
+border-color: Green;
+border-width: 3px 3px 3px 3px;
+}
+ul{
+	kist-style-type: none;
+	margin: 0;
+	padding: 0;
+
+	
+}
+li {
+	float: left;
+}
+
+li a{display: block;
+padding: 8px
+background-color: dddddd;
+color: Green;
+text-align: center;
+padding: 20px 16px;
+text-decloration: none;
+
+	
+}   
+
+li a:hover{ background-color: Yellow;
+	
+}
+
+li{border-right: 10px solid Green;
+border-bottom: 7px solid Green;	
+border-left: 7px solid Green;
+}
